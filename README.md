@@ -54,7 +54,7 @@
 
 - 🌐 Portfolio: [susindrareddy.com](https://susindrareddy.com)
 - 💼 LinkedIn: [https://linkedin.com/in/susindrareddy](https://www.linkedin.com/in/susindra-reddy/)
-- 🐦 Twitter/X: [@SusindraR](https://twitter.com/SusindraR)
+- 🐦 Twitter/X: [@SusindrarR](https://twitter.com/SusindrarR)
 - 📬 Email: susindrar@gmail.com
 
 ---
