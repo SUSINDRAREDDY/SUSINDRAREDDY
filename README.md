@@ -53,9 +53,9 @@
 ## 📫 Connect with Me
 
 - 🌐 Portfolio: [susindrareddy.com](https://susindrareddy.com)
-- 💼 LinkedIn: [linkedin.com/in/susindrareddy](https://linkedin.com/in/susindrareddy)
-- 🐦 Twitter/X: [@susindrareddy](https://twitter.com/susindrareddy)
-- 📬 Email: susindrabandi@gmail.com
+- 💼 LinkedIn: [https://linkedin.com/in/susindrareddy](https://www.linkedin.com/in/susindra-reddy/)
+- 🐦 Twitter/X: [@SusindraR](https://twitter.com/SusindraR)
+- 📬 Email: susindrar@gmail.com
 
 ---
 
