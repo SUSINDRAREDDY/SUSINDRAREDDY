@@ -10,8 +10,8 @@
 ## 👨‍💻 About Me
 - 🎓 Doing masters in **Data Science & AI** in Univeristy of Houston (2028)
 - 🎓 Recent B.Tech graduate in **Computer Science and AI** from MITS (2024)
-- 💼 Currently working at **Pravaah Consulting** as an **AI/ML Developer**
-- 🛠️ Founder of **AI Legal Composer** and **BMR Education**
+- 💼 Worked at **Pravaah Consulting** as an **AI/ML Developer**
+- 🛠️ Founder of **Nexus Medical APP**, **BMR BLOGS**, **AI Legal Composer** and **BMR Education**
 - 🧪 Published researcher and national hackathon winner
 - 💡 Passionate about **Generative AI, ML Engineering, and SaaS platforms**
 
