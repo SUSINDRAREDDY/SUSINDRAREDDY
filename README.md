@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍💻 About Me
-
+- 🎓 Doing masters in **Data Science & AI** in Univeristy of Houston (2028
 - 🎓 Recent B.Tech graduate in **Computer Science and AI** from MITS (2024)
 - 💼 Currently working at **Pravaah Consulting** as an **AI/ML Developer**
 - 🛠️ Founder of **AI Legal Composer** and **BMR Education**
@@ -32,21 +32,14 @@
 
 | Project | Description |
 |--------|-------------|
-| **Smart Glasses for the Visually Impaired** | Wearable device for real-time obstacle detection and navigation |
+| **Smart Glasses for the Visually Impaired** | Won 3rd prize at the National Level Research Program organized by Agastya International Foundation Synapsys for developing AI Smart Glasses — a webcam-mounted assistive device using YOLO, a compact language model, Arduino, and Python to detect objects, recognize people, and provide real-time audio feedback for the visually impaired.|
+| **BMR BLOGS** |AI blogging agent that pulls trending topics from Google Trends, scrapes top articles, generates new blog posts with suitable images and credits, and auto-publishes — producing 400+ blogs/day. |
 | **AI Game Commentator** | Real-time audio commentary powered by LLMs |
 | **3D Interactive Numpad** | Web app for visually engaging math learning |
 | **NEXUS APP** | A full-featured AI social+productivity app |
 | **AI Legal Composer** | Automatically drafts legal docs using LLMs |
 
 > 🏆 **Awards**: Best Intern @ Pravaah • National Hackathon Winner • Published AI Research
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- Coming soon...
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
