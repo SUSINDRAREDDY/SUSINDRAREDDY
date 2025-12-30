@@ -1,6 +1,6 @@
 # Susindra Reddy Bandi
 **AI/ML Developer • Founder**
-**Actively looking for Summer Internships**
+🟢 **Actively looking for Summer Internships**
 
 Building LLMs, Fine-tuning (SFT, DPO), & Agents.
 
