@@ -22,15 +22,21 @@ Recently trained a language model to compose music using teacher-response distil
 ![PEFT](https://img.shields.io/badge/PEFT-525252?style=for-the-badge)
 ![QLoRA](https://img.shields.io/badge/QLoRA-525252?style=for-the-badge)
 
+**Methods:** SFT · DPO · Response Distillation · LoRA / QLoRA · GRPO
+
 ### RL & agents
 
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-447857?style=for-the-badge)
 ![GRPO](https://img.shields.io/badge/GRPO-447857?style=for-the-badge)
-![Tool-using Agents](https://img.shields.io/badge/Tool-using%20Agents-525252?style=for-the-badge)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-525252?style=for-the-badge)
+![RL Environments](https://img.shields.io/badge/RL_Environments-447857?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-525252?style=for-the-badge)
 ![LLM Evaluation](https://img.shields.io/badge/LLM%20Evaluation-8D708F?style=for-the-badge)
 
 ### Inference & infrastructure
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Prime Intellect](https://img.shields.io/badge/Prime_Intellect-525252?style=for-the-badge)
 
 ![vLLM](https://img.shields.io/badge/vLLM-525252?style=for-the-badge)
 ![Modal](https://img.shields.io/badge/Modal-447857?style=for-the-badge)
