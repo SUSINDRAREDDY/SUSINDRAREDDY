@@ -1,20 +1,13 @@
-# Susindra Reddy Bandi
-**AI/ML Developer • Founder**
-🟢 **Actively looking for Summer Internships**
+# Susindra Reddy
 
-Building LLMs, Fine-tuning (SFT, DPO), & Agents.
+I work on LLM post-training, RL agents, and training systems.
 
-### Key Projects
-- **[Nexus Medical App](https://nexus.bmreducation.com)**
-  ML-powered exam prep platform serving 200+ students. Features real-time RAG Voice Agents (LiveKit) with sub-500ms latency.
+Currently building workspace agents that edit files, run commands, and learn from feedback.
 
-- **[BMR Blogs](https://blog.bmreducation.com)**
-  Autonomous agentic workflow generating 400+ SEO blogs/day. Uses GPT-4o and custom Selenium agents for high-volume content automation.
+Recently trained a language model to compose music using teacher-response distillation with QLoRA.
 
-- **Autonomous Job Agent**
-  Multi-agent system for automated job searching and applications.
+- [Music distillation](https://github.com/SUSINDRAREDDY/music-response-distillation) — training code, evaluation, and playable results.
+- [Experiment write-up](https://www.susindrar.com/blog/music-distillation)
+- [Recorded training run](https://www.susindrar.com/live/music)
 
-> **Note:** Source code is private. Hiring managers can [email me](mailto:susindrar@gmail.com) to request access.
-
----
-[susindrareddy.com](https://susindrareddy.com) • [LinkedIn](https://www.linkedin.com/in/susindra-reddy/) • [X](https://twitter.com/SusindrarR)
+[Website](https://www.susindrar.com) · [LinkedIn](https://www.linkedin.com/in/susindra-reddy/) · [X](https://x.com/SusindrarR)
