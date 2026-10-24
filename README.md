@@ -22,7 +22,10 @@ Recently trained a language model to compose music using teacher-response distil
 ![PEFT](https://img.shields.io/badge/PEFT-525252?style=for-the-badge)
 ![QLoRA](https://img.shields.io/badge/QLoRA-525252?style=for-the-badge)
 
-**Methods:** SFT · DPO · Response Distillation · LoRA / QLoRA · GRPO
+![SFT](https://img.shields.io/badge/SFT-525252?style=for-the-badge)
+![DPO](https://img.shields.io/badge/DPO-525252?style=for-the-badge)
+![Response Distillation](https://img.shields.io/badge/Response%20Distillation-525252?style=for-the-badge)
+![LoRA](https://img.shields.io/badge/LoRA-525252?style=for-the-badge)
 
 ### RL & agents
 
